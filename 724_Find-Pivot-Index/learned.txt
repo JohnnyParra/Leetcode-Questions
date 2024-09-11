@@ -1,0 +1,5 @@
+1. Python has built in sum function for Lists
+2. Python Typing for List needed to be imported
+3. C++ <vector> needed to be included
+4. C++ vector declared with {}
+5. C++ vector has size() function

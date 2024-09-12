@@ -1,0 +1,4 @@
+1. Python // operator for floor division
+2. Python import math to use math.floor()
+3. C++ rounds down an int number if its is not whole
+4. C++ to get the middle of two numbers this formula is better mid = l + ((h - l) / 2) to prevent overflow

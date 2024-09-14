@@ -1,1 +1,2 @@
 1. Python can check for a character in a string with "not in"/"in"
+2. C++ unordered_set is only the key elements while unordered_map is the key,value pairs

@@ -1,0 +1,5 @@
+1. Python int() to convert string to number
+2. Python import math for math.inf
+3. Python sort mutates, sorted make a new list
+4. C++ include <algorithm> to use sort(vect.begin(), vect.end())
+5. c++ include <climits> to use INT_MAX or INT_MIN

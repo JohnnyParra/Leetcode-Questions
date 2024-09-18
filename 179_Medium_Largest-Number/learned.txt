@@ -1,0 +1,4 @@
+1. JavaScript converting array of integers to array of string with arr.map(String) with String being a constructor
+2. Python from functools import cmp_to_key
+3. Python using custom sort with key or cmp but python3 needs cmp to be converted to key
+4. C++ sort(first_iterator, second_iteration, comparison function []())

@@ -1,0 +1,4 @@
+1. Python * operator before a list as spread operator
+2. C++ include <unordered_map> std library
+3. C++ include <sstream> std library
+4. C++ used stringstream to split a string into words

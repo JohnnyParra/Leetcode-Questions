@@ -1,0 +1,1 @@
+1. C++ indexes.find(val) != indexes.end() returns false if element is not in map

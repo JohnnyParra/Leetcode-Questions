@@ -1,0 +1,1 @@
+1. Voting algorithm, Boyer–Moore majority vote algorithm

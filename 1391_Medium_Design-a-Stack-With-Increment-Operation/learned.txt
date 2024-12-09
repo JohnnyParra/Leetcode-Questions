@@ -1,1 +1,1 @@
-1. type cast <vector>.size() with (int);
+1. C++ type cast <vector>.size() with (int);
